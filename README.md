@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I am Sheela Devi, a results-driven Technology Analyst with a strong foundation in data analytics, application support, and business intelligence. With hands-on experience in analyzing complex datasets, building predictive models, and developing interactive dashboards, I specialize in transforming raw data into meaningful insights that drive business decisions. My professional journey combines technical expertise in tools like Python, SQL, and Power BI with a deep understanding of enterprise systems and customer-focused problem solving.
+I am Sheela Devi, a Technology Analyst with a strong foundation in data analytics, application support, and business intelligence. With hands-on experience in analyzing complex datasets, building predictive models, and developing interactive dashboards, I specialize in transforming raw data into meaningful insights that drive business decisions. My professional journey combines technical expertise in tools like Python, SQL, and Power BI with a deep understanding of enterprise systems and customer-focused problem solving.
 
 Currently working at Infosys, I bring a unique blend of analytical thinking and operational experience, having supported mission-critical applications while also delivering data-driven solutions such as customer segmentation models, churn prediction systems, and sales forecasting models. I am passionate about leveraging data to improve efficiency, enhance customer experience, and support strategic growth, while continuously expanding my knowledge in analytics and emerging technologies.
 
